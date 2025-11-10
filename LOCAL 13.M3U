@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FOX (WOFL) OrlandoFL" tvg-name="WOFL-DT" tvg-logo="http://51.158.145.100/picons/logos/USA/1920241.png" group-title="FL| LOCAL",FOX 35 (WOFL)
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/173634
+#EXTINF:-1 tvg-id="469649" tvg-name="WESH-DT" tvg-logo="https://swf.mixpo.com/media/www/62/62204717-9a8f-4006-a5ad-32ce0e3e5dc7/images/WESH2_Whitelogo.png" group-title="FL| LOCAL",NBC 2 (WESH)
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/173942
+#EXTINF:-1 tvg-id="" tvg-name="FOX 35 NEWS (PLUS)" tvg-logo="http://51.158.145.100/picons/logos/USA/1920241.png" group-title="FL| LOCAL",FOX 35 NEWS
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1920241
+#EXTINF:-1 tvg-id="CBS (WKMG) OrlandoFL" tvg-name="CBS 6 (WKMG)" tvg-logo="https://www.freepnglogos.com/uploads/cbs-png-logo/cbs-the-shower-shirt-png-logo-3.png" group-title="FL| LOCAL",CBS 6 (WKMG)
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/173157
+#EXTINF:-1 tvg-id="" tvg-name="PBS" tvg-logo="http://51.158.145.100/picons/logos/USA/1930976.png" group-title="FL| LOCAL", PBS
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1930976
+#EXTINF:-1 tvg-id="CW (WKCF) OrlandoFL HD" tvg-name="CW 18 (WKCF)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png" group-title="FL| LOCAL",CW 18 (WKCF)
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/174149
+#EXTINF:-1 tvg-id="" tvg-name="ABC 9 (WFTV)" tvg-logo="http://51.158.145.100/picons/logos/USA/1924202.png" group-title="FL| LOCAL",ABC 9 (WFTV)
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1924202
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="FL| LOCAL",TNT HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45469
+#EXTINF:-1 tvg-id="US-TBS - East" tvg-name="US| TBS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45475.png" group-title="FL| LOCAL",TBS HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45475
+#EXTINF:-1 tvg-id="" tvg-name="SPECTRUM NEWS 13" tvg-logo="http://51.158.145.100/picons/logos/USA/1143763.png" group-title="FL| LOCAL",SPECTRUM NEWS 13
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1143763
+#EXTINF:-1 tvg-id="ION.us" tvg-name="ION HD" tvg-logo="http://51.158.145.100/picons/logos/USA/872292.png" group-title="FL| LOCAL",ION HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/872292
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="GRIT HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91856.png" group-title="FL| LOCAL",GRIT HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/91856
+#EXTINF:-1 tvg-id="WXTV.us.us" tvg-name="UNIVISION EAST" tvg-logo="http://51.158.145.100/picons/logos/USA/1930891.png" group-title="FL| LOCAL",UNIVISION EAST
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1930891
+#EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NEWS NATION HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s91097_h15_af.png" group-title="FL| LOCAL",NEWS NATION HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1345437
+#EXTINF:-1 tvg-id="Ovation.us" tvg-name="OVATION" tvg-logo="http://51.158.145.100/picons/logos/USA/1930982.png" group-title="FL| LOCAL",OVATION HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1930982
+#EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN" tvg-logo="https://www.tbn.org/sites/default/files/2022-09/tbnlogo-white.png" group-title="FL| LOCAL",TBN
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/866194
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91857.png" group-title="FL| LOCAL",HLN HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/91857
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="http://51.158.145.100/picons/logos/USA/442785.png" group-title="FL| LOCAL",US| CNN HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/442785
+#EXTINF:-1 tvg-id="US-CNBC USA" tvg-name="CNBC HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45593.png" group-title="FL| LOCAL",CNBC HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45593
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16300_h15_ac.png" group-title="FL| LOCAL",MSNBC HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45535
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="US| THE WEATHER CHANNEL HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45455.png" group-title="FL| LOCAL",THE WEATHER CHANNEL HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45455
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="FOX NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45573.png" group-title="FL| LOCAL",FOX NEWS HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45573
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10179_h15_aa.png" group-title="FL| LOCAL",ESPN HD
+http://line.trx-ott.com/play/00f38f7209/bbf560434f1c/45579.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12444_h15_ab.png" group-title="FL| LOCAL",ESPN 2 HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45580
+#EXTINF:-1 tvg-id="FoxSportsSun.us" tvg-name="FANDUEL SPORTS SUN HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18003_h15_ad.png" group-title="FL| LOCAL",FANDUEL SPORTS SUN HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45560
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SPORTS 1 HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s82541_h15_ab.png" group-title="FL| LOCAL",FOX SPORTS 1 ᴴᴰ
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45571
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN NEWS ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/USA/1921360.png" group-title="FL| LOCAL",ESPN NEWS ᴴᴰ
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1921360
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" group-title="FL| LOCAL",NICKELODEON EAST ᴴᴰ
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1930985
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" group-title="FL| LOCAL",DISNEY CHANNEL HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45588
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK" tvg-logo="http://51.158.145.100/picons/logos/USA/1931141.png" group-title="FL| LOCAL",CARTOON NETWORK
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1931141
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WE TV HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45464.png" group-title="FL| LOCAL",WE TV HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45464
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV LAND" tvg-logo="http://51.158.145.100/picons/logos/USA/1930895.png" group-title="FL| LOCAL",TV LAND
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1930895
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45466.png" group-title="FL| LOCAL",USA NETWORK HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45466#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45541.png" group-title="FL| LOCAL",LIFETIME HD
+#EXTINF:-1 tvg-id="Lifetime Network" tvg-name="LIFETIME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45541.png" group-title="FL| LOCAL",LIFETIME HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45541
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45442.png" group-title="FL| LOCAL",DISCOVERY HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45442
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="US| A&E HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45619.png" group-title="US| ENTERTAINMENT",US| A&E HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45619
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="US| HISTORY HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45444.png" group-title="US| ENTERTAINMENT",US| HISTORY HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45444
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US| ANIMAL PLANET HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45447.png" group-title="US| ENTERTAINMENT",US| ANIMAL PLANET HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45447
+#EXTINF:-1 tvg-id="US-TLC USA - Eastern" tvg-name="US| TLC HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45471.png" group-title="US| ENTERTAINMENT",US| TLC HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45471
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 31 (WTMO)" tvg-logo="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/telemundo/all-other-sizes-PNG.ico/favicon-96x96.png" group-title="FL| LOCAL",US|
+TELEMUNDO 31 (WTMO)
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/1597415
+
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45436.png" group-title="FL| LOCAL",VH1 HD
+http://line.trx-ott.com:80/00f38f7209/bbf560434f1c/45436
+
+
